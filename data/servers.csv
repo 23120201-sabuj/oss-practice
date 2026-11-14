@@ -1,0 +1,7 @@
+name,region,status,cpu
+web-01,asia,online,45
+db-01,europe,offline,10
+api-01,asia,online,78
+cache-01,america,online,22
+web-02,europe,online,55
+db-02,asia,offline,5
